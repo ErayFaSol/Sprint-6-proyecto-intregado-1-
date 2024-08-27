@@ -51,7 +51,7 @@ Visualizaciones
 Este proyecto incluye varias visualizaciones para analizar los datos, como:
 
 1. Gráfica 1: Juegos lanzados por año
-![Texto Alternativo](images/imagen.png)
+![Texto Alternativo](images/image.png)
 
 Conclusión: La cantidad de lanzamientos de videojuegos creció de manera constante desde los años 80 hasta alcanzar su punto máximo alrededor de 2008-2009. Después de esto, hubo una disminución notable en el número de lanzamientos anuales. Esto sugiere que la industria alcanzó un pico de saturación, seguido de una consolidación del mercado.
 2. Gráfica 2: Top 10 Plataformas con Mayores Ventas Totales
