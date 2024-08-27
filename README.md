@@ -47,7 +47,7 @@ El objetivo principal es identificar los factores que contribuyen al éxito de u
 
     - Basado en el análisis, formular conclusiones sobre qué factores predicen el éxito de un videojuego.
 
-Visualizaciones
+## Visualizaciones
 Este proyecto incluye varias visualizaciones para analizar los datos, como:
 
 1. Gráfica 1: Juegos lanzados por año
