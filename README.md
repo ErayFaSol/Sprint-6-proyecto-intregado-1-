@@ -91,6 +91,6 @@ Conclusión: Existe una correlación positiva entre las críticas profesionales 
 Conclusión: En general, los juegos multiplataforma venden más en PS4 que en Xbox One, destacándose juegos como "Call of Duty: Black Ops 3" y "Grand Theft Auto V". Esto sugiere que la PS4 tenía una base de usuarios más grande o más comprometida en comparación con la Xbox One durante el período analizado.
 
 9. Gráfica 9: Ventas Promedio por Juego en cada Género
-![Texto Alternativo](images/image(8).png)
+![Texto Alternativo](images/image.png)
 
 Conclusión: El género "Shooter" es el más rentable en promedio, seguido por "Plataformas" y "Deportes". Esto indica que los juegos de acción, disparos y deportes tienen un atractivo más amplio entre los consumidores y, por lo tanto, generan mayores ventas promedio en comparación con otros géneros como "Puzzle" o "Aventura".
