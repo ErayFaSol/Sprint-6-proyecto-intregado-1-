@@ -30,7 +30,7 @@ from IPython.display import HTML
 from spicy import stats as st
 
 # Abrir archivos
-df = pd.read_csv('datasets/games.csv')
+df = pd.read_csv('../datasets/games.csv')
 # Cargar informacion
 df.info()
 display(HTML('<hr>'))
